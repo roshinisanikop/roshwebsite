@@ -1,0 +1,41 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+  
+  h1 {
+    color: #335;
+    font-size: 3em;
+    margin-top: 50px;
+  }
+  
+  p {
+    color: #666;
+    font-size: 1.5em;
+  }
+  .intro{
+        font-size: 1.2em;            /* Slightly larger text */
+        line-height: 1.6;            /* Add more space between lines */
+        color: #333;                 /* Text color */
+        background-color: #f9f9f9;   /* Light background color */
+        padding: 20px;               /* Padding around the paragraph */
+        border-radius: 10px;         /* Rounded corners */
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+        max-width: 800px;            /* Limit the width of the paragraph */
+        margin: 20px auto;           /* Center the paragraph */
+        text-align: justify;         /* Justify the text */
+    }
+  
+.main-heading {
+        font-size: 3em;
+        color: #4CAF50;
+        text-align: center;
+        font-family: 'Arial', sans-serif;
+    }
+.wrapper {
+    display: flex;
+    justify-content: center;  /* Horizontally centers the h1 */
+}
