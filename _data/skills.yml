@@ -1,0 +1,20 @@
+languages:
+
+  - item: C++
+  - item: Python
+  - item: Javascript (beginner)
+  - item: HTML
+  - item: CSS
+  - item: R (beginner)
+
+frameworks:
+  - item: Jekyll
+  - item: Node.js
+  - item: Flask
+
+tools:
+  - item: Bash
+  - item: Git & Github
+  - item: MongoDB
+  - item: MySQL
+  - item: Nginx

@@ -1,0 +1,44 @@
+# Site settings
+title: Roshini Sanikop | Website        # Your site title
+url: https://roshinisanikop.github.io/roshwebsite/         # Your site's URL
+baseurl: ""                         # Base URL for your site, if applicable
+author: Roshini Sanikop                  # Your name or the author of the site
+email: roshinisanikop12@gmail.com      # Contact email
+
+# Build settings
+markdown: kramdown                  # Markdown processor
+permalink: pretty                   # URL structure for your posts
+
+# Theme settings (if using a theme)
+theme: minima                       # Change to your desired theme (e.g., minima, jekyll-theme-slate)
+
+# Plugins
+plugins:
+  - jekyll-sitemap                  # Add any plugins you want to use
+  - jekyll-minifier                 # Include this if you're using the minifier
+
+# Exclude files and directories from the build
+exclude:
+  - 'Gemfile'
+  - 'Gemfile.lock'
+  - '*.gemspec'
+  - 'README.md'
+  - 'node_modules'
+  - 'build'
+  - 'gulpfile.js'
+  - 'package.json'
+
+
+# Social links
+social:
+  github: https://github.com/roshinisanikop
+  linkedin: https://linkedin.com/in/roshini-sanikop
+
+# Navigation links
+# nav_links:
+#   - title: Home
+#     url: /
+#   - title: About
+#     url: /about/
+#   - title: Blog
+#     url: /blog/
