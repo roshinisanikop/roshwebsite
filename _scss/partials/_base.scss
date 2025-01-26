@@ -34,11 +34,11 @@ html {
       }
       .switch-wrapper {
         .sun {
-          background: url('../../images/switch/sun-white.svg') no-repeat center;
+          background: url('images/switch/sun-white.svg') no-repeat center;
           background-size: 100%;
         }
         .moon {
-          background: url('../../images/switch/moon-white.svg') no-repeat center;
+          background: url('images/switch/moon-white.svg') no-repeat center;
           background-size: 100%;
         }
       }
@@ -186,7 +186,7 @@ html {
       bottom: 2px;
       margin-left: 15px;
       content: '';
-      background: url('../img/arrow.png') no-repeat center;
+      background: url('/images/arrow.png') no-repeat center;
       background-size: 100%;
       width: 15px;
       height: 15px;
