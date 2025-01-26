@@ -115,13 +115,13 @@ html.night ::selection {
 
 body.night .switch-wrapper .sun,
 html.night .switch-wrapper .sun {
-	background: url(../images/switch/sun-white.svg) no-repeat center;
+	background: url(/images/switch/sun-white.svg) no-repeat center;
 	background-size: 100%
 }
 
 body.night .switch-wrapper .moon,
 html.night .switch-wrapper .moon {
-	background: url(../images/switch/moon-white.svg) no-repeat center;
+	background: url(/images/switch/moon-white.svg) no-repeat center;
 	background-size: 100%
 }
 
@@ -333,7 +333,7 @@ strong {
 	bottom: 2px;
 	margin-left: 15px;
 	content: '';
-	background: url(../images/arrow.png) no-repeat center;
+	background: url(/images/arrow.png) no-repeat center;
 	background-size: 100%;
 	width: 15px;
 	height: 15px;
@@ -441,12 +441,12 @@ strong {
 }
 
 .switch-wrapper .sun {
-	background: url(../images/switch/sun.svg) no-repeat center;
+	background: url(/images/switch/sun.svg) no-repeat center;
 	background-size: 100%
 }
 
 .switch-wrapper .moon {
-	background: url(../images/switch/moon.svg) no-repeat center;
+	background: url(/images/switch/moon.svg) no-repeat center;
 	background-size: 100%
 }
 
