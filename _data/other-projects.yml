@@ -1,0 +1,41 @@
+- name: Mitigating Bias in Facial Recognition using Seldonian Framework
+  url: https://github.com/roshinisanikop/Mitigating_Bias_in_Facial_Recognition_using_Seldonian_Framework
+  code: https://github.com/roshinisanikop/Mitigating_Bias_in_Facial_Recognition_using_Seldonian_Framework
+  description: We aimed to address bias in facial recognition systems by utilizing the Seldonian framework to implement fairness-aware constraints. Our work involved conducting a comprehensive comparative analysis of fairness-aware models (e.g., those enhanced with Seldonian constraints) and fairness-unaware models, such as ResNet50 and VGG16. The study highlighted significant improvements in both fairness metrics and overall model performance, showcasing the potential of integrating fairness considerations into state-of-the-art facial recognition systems.
+  used:
+    - thing: PyTorch
+    - thing: Python
+    - thing: Machine Learning
+    - thing: Neural Networks
+ 
+
+- name: Soil Analysis and Agricultural Aid using ML and IoT
+  url: https://github.com/sathvikpurushotham/final-year-project
+  code: https://github.com/sathvikpurushotham/final-year-project
+  description: Developed soil analysis system in Karnataka using NPK, humidity, and moisture sensors. Predicted ideal crops based on sensed data using GaussianNB classifier and created an Android app for convenient access.
+  used:
+    - thing: Flask
+    - thing: Python
+    - thing: Machine Learning
+    - thing: Internet of Things
+    
+- name: Online Pharmacy
+  url: https://github.com/roshinisanikop/Online-Drug-Store
+  code: https://github.com/roshinisanikop/Online-Drug-Store
+  description: Created an online drug store website for selling/buying products using simple PHP and MySQL queries. Designed UI and built a responsive frontend interface using HTML/CSS/JS. Developed soil analysis system in Karnataka using NPK, humidity, and moisture sensors. Predicted ideal crops based on sensed data using GaussianNB classifier and created an Android app for convenient access.
+  used:
+    - thing: Front-End Development 
+    - thing: MySQL 
+    - thing: Relational Databases
+    - thing: PHP 
+
+- name: Personal Website 
+  url: https://roshinisanikop.github.io/roshwebsite/
+  code: https://roshinisanikop.github.io/roshwebsite/
+  description: First iteration of my personal website. Designed and developed using brittany chiang's portfolio and github.
+  used:
+    - thing: Jekyll
+    - thing: Handlebars
+    - thing: SCSS
+    - thing: JavaScript
+    - thing: Github Pages

@@ -103,25 +103,25 @@ html.night {
 
 body.night ::-moz-selection,
 html.night ::-moz-selection {
-	color: #36363c;
+	color: #202346;
 	background: #ffdc00
 }
 
 body.night ::selection,
 html.night ::selection {
-	color: #36363c;
+	color: #202346;
 	background: #ffdc00
 }
 
 body.night .switch-wrapper .sun,
 html.night .switch-wrapper .sun {
-	background: url(../img/switch/sun-white.svg) no-repeat center;
+	background: url(../images/switch/sun-white.svg) no-repeat center;
 	background-size: 100%
 }
 
 body.night .switch-wrapper .moon,
 html.night .switch-wrapper .moon {
-	background: url(../img/switch/moon-white.svg) no-repeat center;
+	background: url(../images/switch/moon-white.svg) no-repeat center;
 	background-size: 100%
 }
 
@@ -174,7 +174,7 @@ img {
 
 strong {
 	font-weight: 700;
-	color: #36363c
+	color: #202346
 }
 
 .emoji {
@@ -224,7 +224,7 @@ strong {
 	flex-shrink: 0;
 	width: 200px;
 	margin-right: 70px;
-	color: #007bff;
+	color: #a793ee;
 	text-transform: uppercase;
 	text-align: right;
 	font-weight: 700;
@@ -297,7 +297,7 @@ strong {
 	left: 0;
 	width: 100%;
 	height: 1px;
-	background: #36363c;
+	background: #202346;
 	content: '';
 	opacity: 0;
 	-webkit-transition: height .3s, opacity .3s, -webkit-transform .3s;
@@ -333,7 +333,7 @@ strong {
 	bottom: 2px;
 	margin-left: 15px;
 	content: '';
-	background: url(../img/arrow.png) no-repeat center;
+	background: url(../images/arrow.png) no-repeat center;
 	background-size: 100%;
 	width: 15px;
 	height: 15px;
@@ -441,12 +441,12 @@ strong {
 }
 
 .switch-wrapper .sun {
-	background: url(../img/switch/sun.svg) no-repeat center;
+	background: url(../images/switch/sun.svg) no-repeat center;
 	background-size: 100%
 }
 
 .switch-wrapper .moon {
-	background: url(../img/switch/moon.svg) no-repeat center;
+	background: url(../images/switch/moon.svg) no-repeat center;
 	background-size: 100%
 }
 
@@ -462,7 +462,7 @@ strong {
 }
 
 .switch-wrapper .toggle-wrapper #switch:checked+label {
-	background: #bae67e
+	background: #fff
 }
 
 .switch-wrapper .toggle-wrapper #switch:checked+label:after {
@@ -491,7 +491,7 @@ strong {
 	left: 3px;
 	width: 19px;
 	height: 19px;
-	background: #fff;
+	background: #dec2ed;
 	border-radius: 100%
 }
 
@@ -730,13 +730,13 @@ strong {
 	display: inline-block;
 	padding: 2px 3px;
 	text-decoration: none;
-	-webkit-box-shadow: inset 0 -3px 0 #007bff;
-	box-shadow: inset 0 -3px 0 #007bff
+	-webkit-box-shadow: inset 0 -3px 0 #a793ee;
+	box-shadow: inset 0 -3px 0 #a793ee
 }
 
 .intro__contact .highlight-link:hover {
-	-webkit-box-shadow: inset 0 -33px 0 0 #007bff;
-	box-shadow: inset 0 -33px 0 0 #007bff;
+	-webkit-box-shadow: inset 0 -33px 0 0 #a793ee;
+	box-shadow: inset 0 -33px 0 0 #a793ee;
 	color: #fff
 }
 
@@ -766,7 +766,7 @@ strong {
 
 .skills .skillz__category__label {
 	font-weight: 700;
-	color: #36363c;
+	color: #202346;
 	text-transform: uppercase
 }
 
@@ -856,7 +856,7 @@ strong {
 	-webkit-animation-iteration-count: infinite;
 	animation-iteration-count: infinite;
 	opacity: 0;
-	border: 3px solid #bae67e;
+	border: 3px solid #dec2ed;
 	border-radius: 30px
 }
 
@@ -896,7 +896,7 @@ strong {
 	position: absolute;
 	width: 13px;
 	height: 13px;
-	background: #bae67e;
+	background: #dec2ed;
 	border-radius: 100%
 }
 
@@ -1028,8 +1028,8 @@ strong {
 	font-weight: 700;
 	padding: 2px 7px;
 	border-radius: 3px;
-	color: #007bff;
-	border: 1px solid #007bff;
+	color: #a793ee;
+	border: 1px solid #a793ee;
 	background: 0 0
 }
 
@@ -1116,7 +1116,7 @@ strong {
 .footer__links a {
 	position: relative;
 	display: inline-block;
-	color: #007bff!important;
+	color: #a793ee!important;
 	text-transform: uppercase;
 	font-weight: 700;
 	margin: 0 15px;
@@ -1135,7 +1135,7 @@ strong {
 	left: 0;
 	width: 100%;
 	height: 1px;
-	background: #007bff;
+	background: #a793ee;
 	content: '';
 	opacity: 0;
 	-webkit-transition: height .3s, opacity .3s, -webkit-transform .3s;
@@ -1209,7 +1209,7 @@ strong {
 	top: 25px;
 	left: 30px;
 	font-weight: 700;
-	color: #007bff;
+	color: #a793ee;
 	font-size: 1.5rem
 }
 
@@ -1244,7 +1244,7 @@ strong {
 
 .not-found a {
 	font-weight: 700;
-	color: #007bff!important;
+	color: #a793ee!important;
 	position: relative;
 	display: inline-block
 }
@@ -1255,7 +1255,7 @@ strong {
 	left: 0;
 	width: 100%;
 	height: 3px;
-	background: #007bff;
+	background: #a793ee;
 	content: '';
 	opacity: 0;
 	-webkit-transition: height .3s, opacity .3s, -webkit-transform .3s;
