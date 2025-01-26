@@ -5,7 +5,7 @@ baseurl: ""
 logo: images/rainbow.png      # Base URL for your site, if applicable
 author: Roshini Sanikop                  # Your name or the author of the site
 email: roshinisanikop12@gmail.com      # Contact email
-resume: resume.pdf
+resume: https://roshinisanikop.github.io/roshwebsite/resume.pdf
 # Build settings
 markdown: kramdown                  # Markdown processor
 permalink: pretty                   # URL structure for your posts
