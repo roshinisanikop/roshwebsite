@@ -115,13 +115,13 @@ html.night ::selection {
 
 body.night .switch-wrapper .sun,
 html.night .switch-wrapper .sun {
-	background: url(images/switch/sun-white.svg) no-repeat center;
+	background: url(../images/switch/sun-white.svg) no-repeat center;
 	background-size: 100%
 }
 
 body.night .switch-wrapper .moon,
 html.night .switch-wrapper .moon {
-	background: url(images/switch/moon-white.svg) no-repeat center;
+	background: url(../images/switch/moon-white.svg) no-repeat center;
 	background-size: 100%
 }
 
