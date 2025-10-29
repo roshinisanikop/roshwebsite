@@ -1,7 +1,8 @@
 - name: Asterix and the Stock Bazaar
   url: https://github.com/roshinisanikop/asterix_and_stock_bazaar
   code: https://github.com/roshinisanikop/asterix_and_stock_bazaar
-  used: We designed and implemented a socket-based stock trading client and order service with a custom thread pool and synchronization for concurrent requests.
+  description: We designed and implemented a socket-based stock trading client and order service with a custom thread pool and synchronization for concurrent requests.
+  used:  
     - thing: Python
     - thing: Distributed Systems
     - thing: Custom threadpool
