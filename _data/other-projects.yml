@@ -1,3 +1,13 @@
+- name: Asterix and the Stock Bazaar
+  url: https://github.com/roshinisanikop/asterix_and_stock_bazaar
+  code: https://github.com/roshinisanikop/asterix_and_stock_bazaar
+  used: We designed and implemented a socket-based stock trading client and order service with a custom thread pool and synchronization for concurrent requests.
+    - thing: Python
+    - thing: Distributed Systems
+    - thing: Custom threadpool
+    - thing: gRPC
+
+
 - name: Mitigating Bias in Facial Recognition using Seldonian Framework
   url: https://github.com/roshinisanikop/Mitigating_Bias_in_Facial_Recognition_using_Seldonian_Framework
   code: https://github.com/roshinisanikop/Mitigating_Bias_in_Facial_Recognition_using_Seldonian_Framework
@@ -7,7 +17,6 @@
     - thing: Python
     - thing: Machine Learning
     - thing: Neural Networks
- 
 
 - name: Soil Analysis and Agricultural Aid using ML and IoT
   url: https://github.com/sathvikpurushotham/final-year-project
